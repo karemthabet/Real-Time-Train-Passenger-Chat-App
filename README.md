@@ -16,7 +16,17 @@ Built with **gRPC** for efficient communication and **Keycloak** for secure auth
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots  
+
+| Screen 1 | Screen 2 | Screen 3 |
+|:--------:|:--------:|:--------:|
+| ![](assets/9shots_so.png) | ![](assets/65shots_so.png) | ![](assets/307shots_so.png) |
+
+| Screen 4 | Screen 5 | Screen 6 |
+|:--------:|:--------:|:--------:|
+| ![](assets/491shots_so.png) | ![](assets/565shots_so.png) | ![](assets/817shots_so.png) |
+
+---
 
 ### 🔹 Onboarding & Welcome
 | Onboarding 1 | Onboarding 2 | Onboarding 3 |
