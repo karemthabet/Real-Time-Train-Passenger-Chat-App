@@ -1,5 +1,8 @@
-# 🚆 Train Passengers Chat App  
-*(Private, Pending Release)*  
+🚆 Train Passengers Chat App - UI Demo
+
+Welcome to the Train Passengers Chat App demo repository!
+
+This repository contains only the UI components of the Train Passengers Chat App. It serves as a showcase for the front-end design and layout of the app. All back-end logic, database connections, and any proprietary code have been excluded from this repository due to company confidentiality.
 
 ## 🚀 Overview
 A **real-time communication app for train passengers**, enabling secure and seamless interactions.  
